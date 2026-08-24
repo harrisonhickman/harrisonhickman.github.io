@@ -1,7 +1,11 @@
-<p align="right">
+<p align="left">
   <img src="assets/me_delivering_presentation.png"
-     style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+       style="width:120px; height:120px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:20px;">
+
+  <img src="assets/mbimage.png.jpg"
+       style="width:120px; height:120px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:20px;">
 </p>
+
 # Postgraduate Researcher
 
 ### Education
