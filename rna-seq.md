@@ -27,7 +27,7 @@ This project involved performing a complete bulk RNA‑seq analysis workflow usi
    Performed GO and KEGG analysis to identify pathways associated with DEGs.
 
 ## Key Results
-(Add your plots here once uploaded)
+(pending)
 
 - **PCA plot** showing sample clustering  
 - **Volcano plot** highlighting significant DEGs  
