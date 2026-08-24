@@ -1,3 +1,4 @@
+<img src="assets/me_delivering_presentation.png" width="150">
 # Postgraduate Researcher
 
 ### Education
