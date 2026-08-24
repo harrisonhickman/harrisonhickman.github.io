@@ -63,6 +63,13 @@ Explore selected scientific and computational projects:
 
 - [Bulk RNA‑seq Analysis Pipeline](rna-seq.md)
 
+### Upcoming Projects
+- MSC Stem Cell Expansion & Cryopreservation Workflow To be completed during my 7 month tissue bank placement. Will document isolation, expansion, viability assessment, and cryogenic storage procedures.
+- Allograft Processing & QA Documentation Plan to create a workflow summary covering sterile extraction, cleaning, preparation, and regulatory traceability.
+- Single Cell RNA seq Mini Project Extend my bulk RNA seq skills by analysing a small scRNA seq dataset to explore clustering, marker identification, and cell type annotation.
+- Advanced Protein–Ligand Docking Benchmark Expand my docking project by comparing CB Dock with AutoDock Vina and analysing binding site consistency.
+- Cleanroom & GMP Workflow Reflection Document key learning from sterile processing environments, contamination control, and regulated tissue handling.
+
 
 
 
