@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="assets/me_delivering_presentation.png"
+     style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+</p>
 # Postgraduate Researcher
 
 ### Education
