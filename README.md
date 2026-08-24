@@ -70,9 +70,7 @@ Explore selected scientific and computational projects:
 - Advanced Protein–Ligand Docking Benchmark Expand my docking project by comparing CB Dock with AutoDock Vina and analysing binding site consistency.
 - Cleanroom & GMP Workflow Reflection Document key learning from sterile processing environments, contamination control, and regulated tissue handling.
 
-<p align="left">
-  <img src="assets/me_delivering_presentation.png" width="150" style="border-radius: 50%; object-fit: cover; margin-top: 40px;">
-</p>
+
 
 
 
