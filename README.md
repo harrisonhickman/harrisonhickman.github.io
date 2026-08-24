@@ -1,7 +1,3 @@
-<div style="text-align: left; margin-top: 60px;">
-  <img src="assets/me_delivering_presentation.png" width="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
 # Postgraduate Researcher
 
 ### Education
@@ -73,6 +69,11 @@ Explore selected scientific and computational projects:
 - Single Cell RNA seq Mini Project Extend my bulk RNA seq skills by analysing a small scRNA seq dataset to explore clustering, marker identification, and cell type annotation.
 - Advanced Protein–Ligand Docking Benchmark Expand my docking project by comparing CB Dock with AutoDock Vina and analysing binding site consistency.
 - Cleanroom & GMP Workflow Reflection Document key learning from sterile processing environments, contamination control, and regulated tissue handling.
+
+<p align="left">
+  <img src="assets/me_delivering_presentation.png" width="150" style="border-radius: 50%; object-fit: cover; margin-top: 40px;">
+</p>
+
 
 
 
