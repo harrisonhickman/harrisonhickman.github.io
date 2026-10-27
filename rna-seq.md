@@ -12,7 +12,27 @@ This project involved performing a complete bulk RNA‑seq analysis workflow usi
 
 ## Workflow Summary
 1. **Data import and QC**  
-   Checked library sizes, sample clustering, and outliers.
+# Navigate to sample directory
+cd "data/sample_X"
+
+# Download FASTQ files from SRA
+prefetch SRRXXXXXXX
+fasterq-dump SRRXXXXXXX
+
+# Verify metadata
+vdb-dump SRRXXXXXXX --rows 1
+
+# Quality control
+run_fastqc.bat
+
+# Quantification with Kallisto
+kallisto quant `
+  -i "reference/human_transcriptome.idx" `
+  -o kallisto_output `
+  --single `
+  -l 200 `
+  -s 30 `
+  SRRXXXXXXX.fastq
 
 2. **Normalisation**  
    Applied appropriate normalisation methods to correct for sequencing depth and composition bias.
