@@ -4,6 +4,9 @@
 
   <img src="assets/mbimage.png.jpg"
        style="width:120px; height:120px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:20px;">
+
+  <img src="assets/meinlab.png"
+       style="width:120px; height:120px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:20px;">
 </p>
 
 # Postgraduate Researcher
