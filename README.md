@@ -20,6 +20,7 @@
 This placement will provide experience in sterile tissue processing, MSC expansion, cryogenic preservation, and QA/QC documentation within a regulated biobank setting. It will develop my understanding of clinical governance, contamination control, and the laboratory standards required for safe and traceable human and veterinary tissue use.
 
 - Training in mesenchymal stem cell (MSC) cultivation, including isolation, expansion, cryopreservation, and viability assessment
+- Training in MSC-secretome isolation and characterisation
 - Hands on experience with allograft extraction, cleaning, processing, and quality control for veterinary surgical applications
 - Routine handling of liquid nitrogen storage systems, including safe transfer, sample retrieval, and cryogenic preservation workflows
 - Exposure to sterile technique, contamination control, and GMP aligned tissue handling procedures
