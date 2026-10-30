@@ -16,7 +16,7 @@
 - Biomedical Science with Honours | BSc | Nottingham Trent University | Sept 2022 - July 2025
 
 ### Experience
-#### Laboratory technician | Veterinary Tissue Bank | Oct 2026 - April 2027
+#### Research technician | Veterinary Tissue Bank | Oct 2026 - April 2027
 This placement will provide experience in sterile tissue processing, MSC expansion, cryogenic preservation, and QA/QC documentation within a regulated biobank setting. It will develop my understanding of clinical governance, contamination control, and the laboratory standards required for safe and traceable human and veterinary tissue use.
 
 - Training in mesenchymal stem cell (MSC) cultivation, including isolation, expansion, cryopreservation, and viability assessment
