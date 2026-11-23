@@ -125,6 +125,10 @@ Downregulated genes
 #### **Upregulated genes for SK28 condition**
 <img src="https://github.com/user-attachments/assets/eba61259-9715-4299-a3a9-e43ac38d3da9">
 
+#### **Downregulated genes for SK28 condition**
+<img src="https://github.com/user-attachments/assets/cb78d353-adb4-4b24-b9ff-cacf21ec440f">
+
+
 
 ## Tools & Packages
 - R  
