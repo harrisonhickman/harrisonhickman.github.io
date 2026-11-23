@@ -122,7 +122,7 @@ Downregulated genes
 
 
 ### GO pathway enrichment
-#### SK28
+#### **Upregulated genes for SK28 condition**
 <img src="https://github.com/user-attachments/assets/eba61259-9715-4299-a3a9-e43ac38d3da9">
 
 
