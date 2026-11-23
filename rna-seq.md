@@ -1,4 +1,4 @@
-<img width="4032" height="1541" alt="image" src="https://github.com/user-attachments/assets/f9ecf16a-6eb8-4281-a125-fa78891ca371" /># Bulk RNA‑seq Analysis Project
+<img width="4032" height="1541" alt="image" src="https://github.com/user-attachments/assets/b782b43b-51ef-4045-9a14-62465d9b4070" /><img width="4032" height="1541" alt="image" src="https://github.com/user-attachments/assets/d9575f2d-0392-4358-9a08-dbfb3b84c76b" /><img width="4032" height="1541" alt="image" src="https://github.com/user-attachments/assets/f9ecf16a-6eb8-4281-a125-fa78891ca371" /># Bulk RNA‑seq Analysis Project
 
 ## Overview
 This project involved performing a complete bulk RNA‑seq analysis workflow using R and Bioconductor packages. The aim was to identify differentially expressed genes between two conditions, evaluate data quality, and interpret biological significance through enrichment analysis. This work demonstrates structured analytical workflow design, QC awareness, and biological interpretation aligned with clinical bioinformatics practice.
@@ -83,15 +83,16 @@ Downregulated genes
 •	Functional enrichment (GO / KEGG / Reactome)
 
 ## Key Results
-### Top 10 Upregulated Genes
-Shared Upregulated Genes Across Melanoma Cell Lines
-Gene	SK-MEL-28	SK-MEL-147	UACC-62
-STK24	✓	✓	
-BDP1	✓	✓	✓
-HERC2	✓	✓	
-CD2AP	✓		✓
-MACROH2A1			✓
 
+### Shared Upregulated Genes Across Melanoma Cell Lines
+
+| Gene | SK-MEL-28 | SK-MEL-147 | UACC-62 |
+|------|-----------|------------|---------|
+| STK24 | ✓ | ✓ | |
+| BDP1 | ✓ | ✓ | ✓ |
+| HERC2 | ✓ | ✓ | |
+| CD2AP | ✓ | | ✓ |
+| MACROH2A1 | | | ✓ |
 
 
 - **PCA plot** showing sample clustering  
