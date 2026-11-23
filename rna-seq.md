@@ -121,7 +121,10 @@ Downregulated genes
 <img src="https://github.com/user-attachments/assets/7c23d3cb-f1d9-4b03-a2cf-27dce5b9b975">
 
 
-- **Enrichment barplot** showing GO/KEGG pathways  
+### GO pathway enrichment
+#### SK28
+<img src="https://github.com/user-attachments/assets/eba61259-9715-4299-a3a9-e43ac38d3da9">
+
 
 ## Tools & Packages
 - R  
