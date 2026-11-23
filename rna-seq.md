@@ -94,6 +94,18 @@ Downregulated genes
 | CD2AP | ✓ | | ✓ |
 | MACROH2A1 | | | ✓ |
 
+### Shared Downregulated Genes Across Melanoma Cell Lines
+
+| Gene | SK-MEL-28 | SK-MEL-147 | UACC-62 |
+|------|-----------|------------|----------|
+| PDGFRA | ✓ | ✓ | |
+| FLNC | ✓ | | ✓ |
+| NPEPL1 | ✓ | ✓ | |
+| MFAP3 | ✓ | ✓ | |
+| RAB29 | ✓ | ✓ | |
+| EDNRA | ✓ | | ✓ |
+| BTRC | ✓ | | ✓ |
+
 
 - **PCA plot** showing sample clustering  
 - **Volcano plot** highlighting significant DEGs  
