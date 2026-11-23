@@ -52,6 +52,7 @@ design = ~ condition
 Using:R
 padj < 0.05
 Results:
+
 | Comparison | Significant Transcripts |
 |------------|-------------------------|
 | SK-MEL-28 vs Melanocytes | 18,183 |
