@@ -16,7 +16,7 @@
 - Biomedical Science with Honours | BSc | Nottingham Trent University | Sept 2022 - July 2025
 
 ### Experience
-#### Research technician | Veterinary Tissue Bank | Oct 2026 - April 2027
+#### Research technician | Full-time | Veterinary Tissue Bank | Oct 2026 - April 2027
 This placement will provide experience in sterile tissue processing, MSC expansion, cryogenic preservation, and QA/QC documentation within a regulated biobank setting. It will develop my understanding of clinical governance, contamination control, and the laboratory standards required for safe and traceable human and veterinary tissue use.
 
 - Training in mesenchymal stem cell (MSC) cultivation, including isolation, expansion, cryopreservation, and viability assessment
@@ -56,7 +56,29 @@ Across three years of laboratory training at Nottingham Trent University, I deve
   
 Academic reference: Karrin Garrie, karin.garrie@ntu.ac.uk
 
-#### Assistant secretary | West Mercia Radiators | 2025 - Current 
+#### Costa barista | Part-time | Costa | Oct 2026 - Current
+Working in a fast-paced customer-facing environment, preparing beverages to company standards while delivering excellent customer service. Developed strong communication, teamwork and time-management skills through handling busy service periods and resolving customer queries.
+
+Key responsibilities:
+Prepared a range of hot and cold drinks to Costa Coffee standards.
+Operated tills and handled cash/card transactions accurately.
+Delivered friendly and efficient customer service.
+Maintained cleanliness and food safety standards throughout the store.
+Restocked products and monitored inventory levels.
+Worked collaboratively with colleagues during peak trading periods.
+Managed multiple tasks simultaneously in a high-pressure environment.
+
+Skills developed:
+- Customer service
+- Communication
+- Teamwork
+- Time management
+- Attention to detail
+- Cash handling
+- Problem solving
+- Working under pressure
+
+#### Assistant secretary | West Mercia Radiators | 2025 - 2026
 Provided administrative and customer‑facing support within a busy technical workshop environment. Responsibilities included managing enquiries, preparing invoices, maintaining accurate records, and supporting engineers with practical tasks. This role strengthened my communication skills, organisational ability, and confidence working in safety‑critical, hands‑on settings.
 
 - communication skills
