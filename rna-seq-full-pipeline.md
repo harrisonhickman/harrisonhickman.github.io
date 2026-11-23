@@ -221,13 +221,13 @@ gene_map <- select(
   columns = c("SYMBOL", "GENENAME")
 )
 
-# Convert DESeq2 object to dataframe
+#Convert DESeq2 object to dataframe
 sig_SK28_df <- as.data.frame(sig_SK28)
 
-# Add transcript IDs as a column
+#Add transcript IDs as a column
 sig_SK28_df$REFSEQ <- sub("\\..*$", "", rownames(sig_SK28_df))
 
-# Merge annotation with DE results
+#Merge annotation with DE results
 sig_SK28_annotated <- merge(
   sig_SK28_df,
   gene_map,
@@ -265,25 +265,7 @@ gene_df <- bitr(
   OrgDb = org.Hs.eg.db
 )
 
-kegg_up <- enrichKEGG(
-  gene = gene_df$ENTREZID,
-  organism = "hsa",
-  pvalueCutoff = 0.05
-)
-
-#okay lets try GO instead cuz its not seeming to work
-go_up <- enrichGO(
-  gene = gene_df$ENTREZID,
-  OrgDb = org.Hs.eg.db,
-  keyType = "ENTREZID",
-  ont = "BP"
-)
-
-head(as.data.frame(go_up))
-
-dotplot(go_up, showCategory = 10)
-
-#none of these genes passed sig threshold so lets try the full set of upreg genes
+#GO 
 up_genes <- sig_SK28_annotated$SYMBOL[
   sig_SK28_annotated$log2FoldChange > 0
 ]
