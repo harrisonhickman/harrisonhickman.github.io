@@ -205,13 +205,13 @@ EnhancedVolcano(
   FCcutoff = 1
 )
 
-# Significant transcripts
+#Significant transcripts
 sig_SK28 <- subset(
   res_SK28,
   !is.na(padj) & padj < 0.05
 )
 
-# Annotate all significant transcripts
+#Annotate all significant transcripts
 transcripts <- sub("\\..*$", "", rownames(sig_SK28))
 
 gene_map <- select(
