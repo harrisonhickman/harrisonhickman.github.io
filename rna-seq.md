@@ -84,7 +84,13 @@ Downregulated genes
 
 ## Key Results
 ### Top 10 Upregulated Genes
-[Uploading image.png…]()
+Shared Upregulated Genes Across Melanoma Cell Lines
+Gene	SK-MEL-28	SK-MEL-147	UACC-62
+STK24	✓	✓	
+BDP1	✓	✓	✓
+HERC2	✓	✓	
+CD2AP	✓		✓
+MACROH2A1			✓
 
 
 
