@@ -110,8 +110,11 @@ Downregulated genes
 ### PCA plot
 <img src="https://github.com/user-attachments/assets/ceef1965-2862-48ee-9dec-ccf0ed61fcb4">
 
+### Heatmap of Top Differentially Expressed Genes
+<img src="https://github.com/user-attachments/assets/38ee8f40-792f-41f1-a6ed-cc387bbcbf3c">
+
 - **Volcano plot** highlighting significant DEGs  
-- **Heatmap** of top variable genes  
+
 - **Enrichment barplot** showing GO/KEGG pathways  
 
 ## Tools & Packages
