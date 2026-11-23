@@ -107,8 +107,9 @@ Downregulated genes
 | EDNRA | ✓ | | ✓ |
 | BTRC | ✓ | | ✓ |
 
+### PCA plot
+<img src="https://github.com/user-attachments/assets/ceef1965-2862-48ee-9dec-ccf0ed61fcb4">
 
-- **PCA plot** showing sample clustering  
 - **Volcano plot** highlighting significant DEGs  
 - **Heatmap** of top variable genes  
 - **Enrichment barplot** showing GO/KEGG pathways  
