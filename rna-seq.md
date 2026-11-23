@@ -10,6 +10,9 @@ This project involved performing a complete bulk RNA‑seq analysis workflow usi
 - Visualise biological variation
 - Conduct GO enrichment analysis
 
+## View Full Pipeline Here
+- [Full R Pipeline](rna-seq-full-pipeline.md)
+
 ## Melanoma RNA-seq Analysis Pipeline Overview
 ### 1. Data acquisition
 •	Downloaded RNA-seq FASTQ files from SRA.
