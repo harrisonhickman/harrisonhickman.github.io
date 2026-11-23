@@ -113,7 +113,13 @@ Downregulated genes
 ### Heatmap of Top Differentially Expressed Genes
 <img src="https://github.com/user-attachments/assets/38ee8f40-792f-41f1-a6ed-cc387bbcbf3c">
 
-- **Volcano plot** highlighting significant DEGs  
+### Volcano plot
+<img src="https://github.com/user-attachments/assets/f54400f0-6684-4c4e-b5ce-495c2976566a">
+
+<img src="https://github.com/user-attachments/assets/2c517f1a-c5b0-4d7b-89ad-a17930e382a7">
+
+<img src="https://github.com/user-attachments/assets/7c23d3cb-f1d9-4b03-a2cf-27dce5b9b975">
+
 
 - **Enrichment barplot** showing GO/KEGG pathways  
 
