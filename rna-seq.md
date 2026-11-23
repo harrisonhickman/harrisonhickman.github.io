@@ -52,10 +52,11 @@ design = ~ condition
 Using:R
 padj < 0.05
 Results:
-Comparison	Significant transcripts
-SK-Mel-28 vs Melanocytes	18,183
-SK-Mel-147 vs Melanocytes	19,297
-UACC-62 vs Melanocytes	18,176
+| Comparison | Significant Transcripts |
+|------------|-------------------------|
+| SK-MEL-28 vs Melanocytes | 18,183 |
+| SK-MEL-147 vs Melanocytes | 19,297 |
+| UACC-62 vs Melanocytes | 18,176 |
 ### 8. Annotation of significant transcripts
 •	Extracted significant transcripts.
 •	Removed RefSeq version numbers.
