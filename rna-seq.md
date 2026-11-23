@@ -116,26 +116,70 @@ Downregulated genes
 ### Volcano plot
 <img src="https://github.com/user-attachments/assets/f54400f0-6684-4c4e-b5ce-495c2976566a">
 
+
 <img src="https://github.com/user-attachments/assets/2c517f1a-c5b0-4d7b-89ad-a17930e382a7">
 
+
 <img src="https://github.com/user-attachments/assets/7c23d3cb-f1d9-4b03-a2cf-27dce5b9b975">
+
+
 
 
 ### GO pathway enrichment
 #### **Upregulated genes for SK28 condition**
 <img src="https://github.com/user-attachments/assets/eba61259-9715-4299-a3a9-e43ac38d3da9">
 
+
+
 #### **Downregulated genes for SK28 condition**
 <img src="https://github.com/user-attachments/assets/cb78d353-adb4-4b24-b9ff-cacf21ec440f">
 
 
 
-## Tools & Packages
-- R  
-- DESeq2 / edgeR  
-- clusterProfiler  
-- ggplot2  
-- tidyverse  
+#### **Upregulated genes for SK147 condition**
+<img src="https://github.com/user-attachments/assets/a6f96a76-f04c-4b46-8d8d-466f22addaee">
+
+
+
+#### **Downregulated genes for SK147 condition**
+<img src="https://github.com/user-attachments/assets/de2ddd2f-fd98-4a02-9114-28587541911c">
+
+
+
+#### **Upregulated genes for UAC-62 condition**
+<img src="https://github.com/user-attachments/assets/ccf465ce-12be-4a6d-b9fe-965645ff2753">
+
+
+
+#### *Downregulated genes for UAC-62 condition**
+<img src="https://github.com/user-attachments/assets/1c765a93-49f5-4da6-b498-2441387b4517">
+
+
+
+## Tools and Packages Used
+
+### Software
+- R (v4.5.2)
+- RStudio
+- Kallisto
+- GitHub
+
+### Bioconductor Packages
+- DESeq2 (differential expression analysis)
+- tximport (importing Kallisto transcript quantifications)
+- org.Hs.eg.db (gene annotation)
+- clusterProfiler (gene ontology enrichment analysis)
+
+### R Packages
+- ggplot2 (visualisation)
+- pheatmap (heatmap generation)
+- dplyr (data manipulation)
+- tibble (data structures)
+
+### Databases
+- NCBI SRA (RNA-seq data source)
+- RefSeq (transcript annotation)
+- Gene Ontology (GO Biological Process enrichment)
 
 ## Skills Demonstrated
 - Bioinformatics workflow design  
